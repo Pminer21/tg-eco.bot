@@ -8,7 +8,7 @@ adv = []
 
 
 
-bot = telebot.TeleBot("7589755592:AAGKycDZgTvLX-jgJgGXDcD4dVkey6fX3dI")
+bot = telebot.TeleBot("")
 
 
 for file_name in os .listdir('adv'):
